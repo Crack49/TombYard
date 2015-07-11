@@ -1,0 +1,19 @@
+name: TombYard
+description: TombYard Respawn based system.
+author: Emiliovirtual
+version: 1.0
+main: me.emiliovirtual.tombyard.TombYardMain
+website: http://mapeadores.com/
+commands:
+  tombyard:
+    description: Tombyard's main command. Displays Help Information about the plugin.
+permissions:
+tombyard.*:
+    description: Gives Access To All Commands
+    default: op
+tombyard.bypass:
+    description: Ignore TombYard system.
+    default: false
+tombyard.tp:
+    description: Allows to tp between different TombYards
+    default: false

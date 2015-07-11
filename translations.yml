@@ -1,0 +1,17 @@
+TY_Added: TombYard <name> has been added!
+TY_Deleted: TombYard <name> has been deleted!
+TY_TeleportatedTo: You have been teleported to TombYard <name>!
+TY_List: Tombyards list
+TY_NotFound: TombYard <name> not found!
+TY_NotFoundAny: There aren't TombYards yet or it has been an error loading them!
+TY_Reloaded: Config and Translations reloaded succesfully.
+TY_RespawnedOn: You have been respawned on the TombYard of <name>
+TY_Help: TombYard's Help
+TY_CommMain: TombYard's Main Command. Displays Help Information about the plugin.
+TY_CommAdd: Add new TombYard.
+TY_CommDelete: Delete TombYard by name.
+TY_CommTp: Tp to TombYard by name.
+TY_CommDeleteNear: Delete nearest TombYard.
+TY_CommTpNear: Tp to nearest TombYard.
+TY_CommList: Display all TombYards in current World.
+TY_CommReload: Reload Config and Translations.
